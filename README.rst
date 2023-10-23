@@ -4,18 +4,24 @@ This mod turns an Ender 3 3D printer into a Prussa-style one, with linear bearin
 
 Views:
 
-.. image:: ./imgs/full_assembly.gif
-        :target: ./imgs/assembly
-        :alt: assembly
-.. image:: ./imgs/prusa2.PNG
-          :target: ./imgs/view2
-          :alt: view2
-.. image:: ./imgs/prusa3.PNG
-          :target: ./imgs/view3
-          :alt: view3
-.. image:: ./imgs/prusa4.PNG
-          :target: ./imgs/view4
-          :alt: view4
+
+.. list-table:: 
+
+    * - .. figure:: ./imgs/full_assembly.gif
+
+           Fig 1. 
+
+      - .. figure:: ./imgs/prusa4.PNG
+
+           Fig 2. Front View
+    * - .. figure:: ./imgs/prusa2.PNG
+
+           Fig 3. Top View
+
+      - .. figure:: ./imgs/prusa3.PNG
+
+           Fig 4. Side View
+
 
 Bill of Materials
 -----------------
