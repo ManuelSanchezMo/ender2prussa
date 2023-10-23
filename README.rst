@@ -7,9 +7,9 @@ Views:
 
 .. list-table:: 
 
-    * - .. figure:: ./imgs/full_assembly.gif
+    * - .. figure:: ./imgs/prusa-gif.gif
 
-           Fig 1. 
+           Fig 1. Perspective View
 
       - .. figure:: ./imgs/prusa4.PNG
 
